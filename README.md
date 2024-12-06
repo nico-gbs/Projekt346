@@ -21,22 +21,6 @@
 **Abgabedatum**:  
 - [Abgabedatum]
 
----
-
-### Zusammenfassung
-In diesem Projekt wurde ein Content Management System (CMS) in einer Cloud-Umgebung konzipiert und implementiert. Der Service wurde als *Infrastructure as Code* (IaC) bereitgestellt, sodass er einfach und wiederholbar in der Cloud bereitgestellt werden kann.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
