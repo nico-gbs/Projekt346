@@ -1,6 +1,6 @@
 # Projektarbeit: Cloudlösungen konzipieren und realisieren
 
-![Projektlogo](./images/projektlogo.png)
+![Projektlogo](./wordpress-logo-FC322694E8-seeklogo.com.png)
 
 **Kanton St. Gallen**  
 **Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen**  
