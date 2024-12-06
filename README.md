@@ -7,7 +7,7 @@
 
 ### Kanton St. Gallen  
 **Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen**  
-**Jahrgang 2024 | Abschlussarbeit für das Modul 346**
+**Jahrgang 2024 | Projektarbeit für das Modul 346**
 
 ---
 
