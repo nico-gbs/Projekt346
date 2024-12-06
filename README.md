@@ -1,6 +1,7 @@
 # ![Projektlogo](./images/projektlogo.png)
 
 # **Projektarbeit: Cloudlösungen konzipieren und realisieren**
+
 ### Informatik | Modul 346
 
 ---
