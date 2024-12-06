@@ -25,7 +25,7 @@ Lehrperson
 ---
 
 ### **Abgabedatum**  
-[Abgabedatum]/
+[Abgabedatum]
 
 ---
 
