@@ -1,6 +1,5 @@
-# ![Projektlogo](./wordpress-logo-FC322694E8-seeklogo.com.png)
-
 # **Projektarbeit: Cloudlösungen konzipieren und realisieren**
+
 
 ### Informatik | Modul 346
 
