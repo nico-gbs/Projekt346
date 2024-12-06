@@ -9,7 +9,7 @@
 **Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen**  
 **Jahrgang 2024 | Abschlussarbeit für das Modul 346**
 
-
+---
 
 ### **Projektgruppe**  
 - **Adrijan Djordjevic**
