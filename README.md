@@ -11,7 +11,7 @@ Es sollen die folgenden Ziele in der Projektarbeit erreicht werden:
 3. Die Dokumentation findet direkt über Git in Markdown statt (im gleichen Repository wie die Konfigurationsdateien).
 4. Einzelne Testfälle sollen durchgespielt, mittels Screenshot protokolliert und in der Dokumentation abgelegt werden.
 
-## Aufgabenstellung
+## 1.3 Aufgabenstellung
 
 Installieren Sie ein Content Management System (CMS) Ihrer Wahl (z. Bsp. Wordpress, Typo3, Joomla!, Tiki, Contao, etc.). Teilen Sie Ihre Wahl der Lehrperson mit.
 Beachten Sie die individuellen Bewertungskriterien.
