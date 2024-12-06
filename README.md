@@ -1,25 +1,44 @@
-# Projektarbeit: Cloudlösungen konzipieren und realisieren
+# ![Projektlogo](./images/projektlogo.png)
 
-![Projektlogo](./wordpress-logo-FC322694E8-seeklogo.com.png)
-
-**Kanton St. Gallen**  
-**Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen**  
-**Informatik | Modul 346**  
-
-**Projektauftrag**: Content Management System (CMS) in der Cloud
+# **Projektarbeit: Cloudlösungen konzipieren und realisieren**  
+**Informatik | Modul 346**
 
 ---
 
-**Projektgruppe**:  
-- Max Mustermann  
-- Anna Beispiel  
-- Markus Tester
+### Kanton St. Gallen  
+**Gewerbliches Berufs- und Weiterbildungszentrum St. Gallen**  
+**Jahrgang 2022 | Abschlussarbeit für das Modul 346**
 
-**Betreuer**:  
-- Herr Prof. Dr. Beispiel
+---
 
-**Abgabedatum**:  
-- [Abgabedatum]
+### **Projektgruppe**
+- **Max Mustermann** – Projektleiter  
+- **Anna Beispiel** – Cloud-Architektin  
+- **Markus Tester** – Entwickler
+
+---
+
+### **Betreuer**
+Herr Prof. Dr. Beispiel  
+Dozent für Informatik
+
+---
+
+### **Abgabedatum**  
+[Abgabedatum]
+
+---
+
+## **Projektbeschreibung**
+
+In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Cloud konzipiert und implementiert. Der Service wurde vollständig als *Infrastructure as Code* (IaC) realisiert, um die Bereitstellung und Verwaltung zu automatisieren und eine schnelle Skalierbarkeit zu ermöglichen. Das Projekt umfasst die Auswahl der passenden Cloud-Umgebung, die Einrichtung des Webservers und der Datenbank, sowie die Automatisierung der Bereitstellung mittels Terraform.
+
+---
+
+![Cloud](./images/cloud-image.png)  
+_Visualisierung der Cloud-Architektur des Projekts_
+
+
 
 
 
