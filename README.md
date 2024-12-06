@@ -1,7 +1,8 @@
-# ![Projektlogo](./images/projektlogo.png)
-
-# **Projektarbeit: Cloudlösungen konzipieren und realisieren**  
-**Informatik | Modul 346**
+<div align="center">
+    <img src="./images/projektlogo.png" width="200" alt="Projektlogo">
+    <h1 style="font-family: Arial, sans-serif; font-weight: bold;">Projektarbeit: Cloudlösungen konzipieren und realisieren</h1>
+    <h3 style="font-family: Arial, sans-serif; font-weight: normal;">Informatik | Modul 346</h3>
+</div>
 
 ---
 
@@ -11,10 +12,14 @@
 
 ---
 
-### **Projektgruppe**
-- **Max Mustermann** – Projektleiter  
-- **Anna Beispiel** – Cloud-Architektin  
-- **Markus Tester** – Entwickler
+<div align="center">
+    <h3 style="font-family: Arial, sans-serif; font-weight: bold;">Projektgruppe</h3>
+    <ul style="font-family: Arial, sans-serif; list-style-type: none;">
+        <li><strong>Max Mustermann</strong> – Projektleiter</li>
+        <li><strong>Anna Beispiel</strong> – Cloud-Architektin</li>
+        <li><strong>Markus Tester</strong> – Entwickler</li>
+    </ul>
+</div>
 
 ---
 
@@ -29,14 +34,23 @@ Dozent für Informatik
 
 ---
 
-## **Projektbeschreibung**
-
-In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Cloud konzipiert und implementiert. Der Service wurde vollständig als *Infrastructure as Code* (IaC) realisiert, um die Bereitstellung und Verwaltung zu automatisieren und eine schnelle Skalierbarkeit zu ermöglichen. Das Projekt umfasst die Auswahl der passenden Cloud-Umgebung, die Einrichtung des Webservers und der Datenbank, sowie die Automatisierung der Bereitstellung mittels Terraform.
+<div align="center">
+    <h3 style="font-family: Arial, sans-serif; font-weight: bold;">Projektbeschreibung</h3>
+    <p style="font-family: Arial, sans-serif; text-align: center;">  
+    In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Cloud konzipiert und implementiert.  
+    Der Service wurde vollständig als *Infrastructure as Code* (IaC) realisiert, um die Bereitstellung und Verwaltung zu automatisieren  
+    und eine schnelle Skalierbarkeit zu ermöglichen. Das Projekt umfasst die Auswahl der passenden Cloud-Umgebung, die Einrichtung des  
+    Webservers und der Datenbank, sowie die Automatisierung der Bereitstellung mittels Terraform.
+    </p>
+</div>
 
 ---
 
-![Cloud](./images/cloud-image.png)  
-_Visualisierung der Cloud-Architektur des Projekts_
+<div align="center">
+    <img src="./images/cloud-image.png" width="400" alt="Cloud-Architektur">
+    <p style="font-family: Arial, sans-serif; font-size: 12px; text-align: center;"><em>Visualisierung der Cloud-Architektur des Projekts</em></p>
+</div>
+
 
 
 
