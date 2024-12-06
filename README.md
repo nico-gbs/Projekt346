@@ -61,3 +61,24 @@ text
 
 # 7. Automatisierungsgrad
 text
+
+# 8. Arbeitsweise
+text
+
+# 9. Aufgabenverteilung
+text
+
+# 10. Reflexion
+text
+
+# 7. Glossar
+| Fachbegriff  | Synonyme  | Definition | Quelle |
+|--------------|-----------|------------|--------|
+| Fachwort 1   |           |            |        |
+| Fachwort 2   |           |            |        |
+| Fachwort 3   |           |            |        |
+| Fachwort 4   |           |            |        |
+
+
+# 7. Quellenverzeichnis
+text
