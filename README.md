@@ -1,4 +1,4 @@
-# **Projektarbeit: Cloudlösungen konzipieren und realisieren CMS-Wordpress**
+# **Projektarbeit: Cloudlösungen konzipieren und realisieren CMS-WordPress**
 
 
 ### Informatik | Modul 346
