@@ -36,7 +36,7 @@ In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Clo
 
 
 # Inhaltsverzeichnis
-1. [Einleitung](#1.einleitung)
+1. [Einleitung](#einleitung)
 2. [Kapitel 1: Grundlagen](#kapitel-1-grundlagen)
    - [Thema 1.1: Einführung](#thema-11-einfuhrung)
    - [Thema 1.2: Hintergrund](#thema-12-hintergrund)
@@ -47,7 +47,7 @@ In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Clo
 
 
 
-# 1. Einleitung
+# Einleitung
 
 # 1. Inbetriebnahme
 text
