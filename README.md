@@ -82,3 +82,7 @@ text
 
 # 7. Quellenverzeichnis
 text
+
+>[!NOTE]
+>
+>This is a standard NOTE block.
