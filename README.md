@@ -30,7 +30,7 @@ Lehrperson
 ---
 
 ### **Projektbeschreibung**  
-In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Cloud konzipiert und implementiert. Der Service wurde vollständig als *Infrastructure as Code* (IaC) realisiert, um die Bereitstellung und Verwaltung zu automatisieren und eine schnelle Skalierbarkeit zu ermöglichen. Das Projekt umfasst die Auswahl der passenden Cloud-Umgebung, die Einrichtung des Webservers und der Datenbank sowie die Automatisierung der Bereitstellung mittels Terraform.
+text
 
 ---
 
