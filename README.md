@@ -36,11 +36,11 @@ In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Clo
 
 
 # Inhaltsverzeichnis
-1. [Inbetriebnahme](#Inbetriebnahme)
-2. [Verwaltung Konfigurationsdateien](#Verwaltung Konfigurationsdateien)
-3. [Erfüllungsgrad](#Erfüllungsgrad)
-4. [Tests](#Tests)
-5. [TWebserver](#Webserver)
+1. [Inbetriebnahme](#1.Inbetriebnahme)
+2. [Verwaltung Konfigurationsdateien](#2.VerwaltungKonfigurationsdateien)
+3. [Erfüllungsgrad](#3.Erfüllungsgrad)
+4. [Tests](#4.Tests)
+5. [Webserver](#Webserver)
 6. [Tests](#Tests)
 7. [Tests](#Tests)
 8. [Tests](#Tests)
