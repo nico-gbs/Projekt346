@@ -37,49 +37,55 @@ In dieser Projektarbeit haben wir ein Content Management System (CMS) in der Clo
 
 # Inhaltsverzeichnis
 1. [Einleitung](#einleitung)
-2. [Kapitel 1: Grundlagen](#kapitel-1-grundlagen)
-   - [Thema 1.1: Einführung](#thema-11-einfuhrung)
-   - [Thema 1.2: Hintergrund](#thema-12-hintergrund)
-3. [Kapitel 2: Details](#kapitel-2-details)
-   - [Thema 2.1: Analyse](#thema-21-analyse)
-   - [Thema 2.2: Ergebnisse](#thema-22-ergebnisse)
-4. [Schluss](#schluss)
+2. [Inbetriebnahme](#inbetriebnahme)
+3. [Verwaltung-Konfigurationsdateien](#verwaltung-konfigurationsdateien)
+4. [Erfüllungsgrad](#erfüllungsgrad)
+5. [Tests](#tests)
+6. [Webserver](#webserver)
+7. [Datenbank](#datenbank)
+8. [Automatisierungsgrad](#automatisierungsgrad)
+9. [Arbeitsweise](#arbeitsweise)
+10. [Aufgabenverwaltung](#aufgabenverwaltung)
+11. [Reflexion](#reflexion)
+12. [Glossar](#glossar)
+13. [Quellenverzeichnis](#Quellenverzeichnis)
 
 
 
 # Einleitung
-
-# 1. Inbetriebnahme
 text
 
-# 2. Verwaltung Konfigurationsdateien
+# Inbetriebnahme
 text
 
-# 3. Erfüllungsgrad
+# Verwaltung-Konfigurationsdateien
 text
 
-# 4. Tests
+# Erfüllungsgrad
 text
 
-# 5. Webserver
+# Tests
 text
 
-# 6. Datenbank
+# Webserver
 text
 
-# 7. Automatisierungsgrad
+# Datenbank
 text
 
-# 8. Arbeitsweise
+# Automatisierungsgrad
 text
 
-# 9. Aufgabenverteilung
+# Arbeitsweise
 text
 
-# 10. Reflexion
+# Aufgabenverteilung
 text
 
-# 7. Glossar
+# Reflexion
+text
+
+# Glossar
 | Fachbegriff  | Synonyme  | Definition | Quelle |
 |--------------|-----------|------------|--------|
 | Fachwort 1   |           |            |        |
@@ -88,6 +94,6 @@ text
 | Fachwort 4   |           |            |        |
 
 
-# 7. Quellenverzeichnis
+# Quellenverzeichnis
 text
 
