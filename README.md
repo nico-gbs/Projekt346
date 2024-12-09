@@ -88,7 +88,7 @@ text
 # Glossar
 | Fachbegriff  | Synonyme  | Definition | Quelle |
 |--------------|-----------|------------|--------|
-| Fachwort 1   |           |            |        |
+| CMS          |           | Ein CMS (Content Management System) ist eine Software, mit der Inhalte wie Texte, Bilder und Videos auf einer Website ohne Programmierkenntnisse erstellt und bearbeitet werden können. Es hilft, die Website zu verwalten, das Design anzupassen und Inhalte einfach zu veröffentlichen.            |        |
 | Fachwort 2   |           |            |        |
 | Fachwort 3   |           |            |        |
 | Fachwort 4   |           |            |        |
