@@ -89,9 +89,7 @@ text
 | Fachbegriff  | Synonyme  | Definition | Quelle |
 |--------------|-----------|------------|--------|
 | CMS          | Webseiten-Baukasten
-Content-Management-Software
-Inhaltsverwaltungssystem 
-Publikationssystem| Ein CMS (Content Management System) ist eine Software, mit der Inhalte wie Texte, Bilder und Videos auf einer Website ohne Programmierkenntnisse erstellt und bearbeitet werden können. Es hilft, die Website zu verwalten, das Design anzupassen und Inhalte einfach zu veröffentlichen.            | https://de.wikipedia.org/wiki/Content-Management-System       |
+                 dsdf| Ein CMS (Content Management System) ist eine Software, mit der Inhalte wie Texte, Bilder und Videos auf einer Website ohne Programmierkenntnisse erstellt und bearbeitet werden können. Es hilft, die Website zu verwalten, das Design anzupassen und Inhalte einfach zu veröffentlichen.            | https://de.wikipedia.org/wiki/Content-Management-System       |
 | Fachwort 2   |           |            |        |
 | Fachwort 3   |           |            |        |
 | Fachwort 4   |           |            |        |
