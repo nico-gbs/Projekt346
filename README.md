@@ -36,21 +36,27 @@ text
 
 
 # Inhaltsverzeichnis
-1. [Einleitung](#einleitung)
-2. [Inbetriebnahme](#inbetriebnahme)
-3. [Verwaltung-Konfigurationsdateien](#verwaltung-konfigurationsdateien)
-4. [Erfüllungsgrad](#erfüllungsgrad)
-5. [Tests](#tests)
-6. [Webserver](#webserver)
-7. [Datenbank](#datenbank)
-8. [Automatisierungsgrad](#automatisierungsgrad)
-9. [Arbeitsweise](#arbeitsweise)
-10. [Aufgabenverwaltung](#aufgabenverwaltung)
-11. [Reflexion](#reflexion)
-12. [Glossar](#glossar)
-13. [Quellenverzeichnis](#Quellenverzeichnis)
+1. [Planung/Organisation](#planung/organisation)
+2. [Einleitung](#einleitung)
+3. [Inbetriebnahme](#inbetriebnahme)
+4. [Verwaltung-Konfigurationsdateien](#verwaltung-konfigurationsdateien)
+5. [Erfüllungsgrad](#erfüllungsgrad)
+6. [Tests](#tests)
+7. [Webserver](#webserver)
+8. [Datenbank](#datenbank)
+9. [Automatisierungsgrad](#automatisierungsgrad)
+10. [Arbeitsweise](#arbeitsweise)
+11. [Aufgabenverwaltung](#aufgabenverwaltung)
+12. [Reflexion](#reflexion)
+13. [Glossar](#glossar)
+14. [Quellenverzeichnis](#Quellenverzeichnis)
 
 
+# Aufgabenstellung
+## AUsgangslage
+## Ziele
+## Aufgabenstellung
+## Planung/Organisation
 
 # Einleitung
 text
