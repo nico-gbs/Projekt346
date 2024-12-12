@@ -8,7 +8,7 @@ echo -n "Falls Ja -> 1 | Falls Nein -> 0 "
 echo -n "hier eingeben: "
 read Decision
 
-if [ "$Decision" = 1 ]; then
+if [ "$Decision" != 0 ]; then
   echo "Super :) nun können wir weitermachen"
 else
   echo "Nicht gut... starte das Skript bitte erneut :("
