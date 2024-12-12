@@ -59,3 +59,7 @@ else
   echo "Fehler beim Konfigurieren der Security Group."
   exit 1
 fi
+
+# Setze die Umgebungsvariabeln für das initscript
+export KeyPairName="$KeyPairName"
+export SecurityGroupName="$SecurityGroupName"
