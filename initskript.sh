@@ -20,4 +20,12 @@ echo -n "Bitte hier eingeben: "
 read Name
 
 # hier wird die Ubuntu Umgebung erstellt
-aws ec2 run-instances --image-id ami-0e86e20dae9224db8 --count 1 --instance-type t2.micro --key-name "$KeyPairName" --security-groups "$SecurityGroupName" --iam-instance-profile Name=LabInstanceProfile --user-data file://initial.txt --tag-specifications "ResourceType=instance,Tags=[{Key=Name,Value=$Name}]"
+aws ec2 run-instances \
+    --image-id ami-0e86e20dae9224db8 \
+    --count 1 \
+    --instance-type t2.micro \
+    --key-name $KeyPairName \
+    --security-groups $SecurityGroupName \
+    --iam-instance-profile Name=LabInstanceProfile \
+    --user-data file://initial.txt \
+    --tag-specifications "ResourceType=instance,Tags=[{Key=Name,Value=$Name}]"
