@@ -118,9 +118,7 @@ aws ec2 authorize-security-group-ingress --group-id "$GroupId" --protocol tcp --
 
 Schützt die Schlüsseldatei, sodass nur der Besitzer sie lesen kann.
 
-chmod 400 "$KeyFile"
-
-
+chmod 400 "$KeyFile"/n
 
 **Fehlerüberprüfung**
 
