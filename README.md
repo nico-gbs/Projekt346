@@ -83,10 +83,10 @@ text
 # Verwaltung-Konfigurationsdateien
 **Beschreibung**
 
-Dieses Script erstellt in AWS automatisch ein Schlüsselpaar und eine Sicherheitsgruppe. Die Ports 80 (HTTP) und 22 (SSH) werden geöffnet, damit sich die EC2-Instanz verbinden kann. Das Skript richtet sich an Anwender, die einfache EC2-Netzwerk- und Zugriffsressourcen konfigurieren wollen. <br>
+Dieses Script erstellt in AWS automatisch ein Schlüsselpaar und eine Sicherheitsgruppe. Die Ports 80 (HTTP) und 22 (SSH) werden geöffnet, damit sich die EC2-Instanz verbinden kann. Das Skript richtet sich an Anwender, die einfache EC2-Netzwerk- und Zugriffsressourcen konfigurieren wollen.  
 **Erstellt ein EC2-Schlüsselpaar und speichert den privaten Schlüssel lokal.**
 
-aws ec2 create-key-pair --key-name "$KeyPairName" --key-type rsa --query 'KeyMaterial' --output text > "$KeyFile"
+aws ec2 create-key-pair --key-name "$KeyPairName" --key-type rsa --query 'KeyMaterial' --output text > "$KeyFile"  
 
 
 
