@@ -81,7 +81,7 @@ text
 text
 
 # Verwaltung-Konfigurationsdateien
-**Beschreibung**
+## Beschreibung
 
 Dieses Script erstellt in AWS automatisch ein Schlüsselpaar und eine Sicherheitsgruppe. Die Ports 80 (HTTP) und 22 (SSH) werden geöffnet, damit sich die EC2-Instanz verbinden kann. Das Skript richtet sich an Anwender, die einfache EC2-Netzwerk- und Zugriffsressourcen konfigurieren wollen. 
 
