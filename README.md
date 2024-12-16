@@ -76,7 +76,7 @@ Die Abgabe der Projektarbeit findet über die Angabe des Repositories statt. Nac
 
 # Einleitung
 text
-
+<br>
 # Inbetriebnahme
 text
 
