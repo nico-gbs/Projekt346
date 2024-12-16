@@ -90,9 +90,6 @@ Dieses Script erstellt in AWS automatisch ein Schlüsselpaar und eine Sicherheit
 
 aws ec2 create-key-pair --key-name "$KeyPairName" --key-type rsa --query 'KeyMaterial' --output text > "$KeyFile"  
 
-.. code-block:: bash
-
-   aws ec2 create-key-pair --key-name "${KeyPairName}" --key-type rsa --query 'KeyMaterial' --output text > "${KeyFile}"
 
 
 
